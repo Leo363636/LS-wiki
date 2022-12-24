@@ -1,0 +1,7 @@
+#[Info]
+site_name: LS-wiki
+site_author: Leo Smith
+
+nav:
+    - Home: index.md
+    - Library: library.md
